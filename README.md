@@ -3,9 +3,10 @@
 ## NLP folder:
  covers basic concepts of data cleaning like text preprocessing, tokenization, stemming, lemmatization, stop words and postagging.
  It also covers vectorization techniques such as bag of words and n-grams.
-## Machine Learning folder covers two mock projects of ML:                                                 
+## Machine Learning folder covers three mock projects of ML:                                                 
 1- In which data is retrieved by kaggle source and we will predict the success rate of a holiday package launched by a travel company.    
-2- In which data is retrieved from an Indian website  and model is trained to predict the price of used cars.                                                             
+2- In which data is retrieved from an Indian website  and model is trained to predict the price of used cars.      
+3- In which dataset is prepareed by Artificial Intelligence and model is trained to predict whether the student will be failed or passed based on the daily routine of students.                                                       
 ## Requirements file:
  have all the necessary packages required to run the project.
 ## All the work has been done in a virtual environment of Python version 3.12.
