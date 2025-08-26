@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/252179482823447160/0e97a4a3cabc4075b61aabae34dc2595/artifacts
+end_time: 1756136453447
+entry_point_name: ''
+experiment_id: '252179482823447160'
+lifecycle_stage: active
+run_id: 0e97a4a3cabc4075b61aabae34dc2595
+run_name: stately-finch-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756136453171
+status: 3
+tags: []
+user_id: qc
