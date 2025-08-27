@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/441199829455542875/f62fa9b4c4a3474ea65bf18b79af097c/artifacts
+end_time: 1756136659041
+entry_point_name: ''
+experiment_id: '441199829455542875'
+lifecycle_stage: active
+run_id: f62fa9b4c4a3474ea65bf18b79af097c
+run_name: crawling-stag-146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756136651709
+status: 3
+tags: []
+user_id: qc
