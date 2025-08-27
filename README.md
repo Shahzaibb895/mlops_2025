@@ -2,7 +2,7 @@
  covers basic concepts of python like syntax, semantics, variables, data types, operators,loops, conditional logics, control structures, functions, modules, file handling and exceptions.
 ## NLP folder:
  covers basic concepts of data cleaning like text preprocessing, tokenization, stemming, lemmatization, stop words and postagging.
- It also covers vectorization techniques such as bag of words and n-grams.
+ It also covers vectorization techniques such as bag of words, n-grams and word2vec.
 ## Machine Learning folder covers three mock projects of ML:                                                 
 1- In which data is retrieved by kaggle source and we will predict the success rate of a holiday package launched by a travel company.    
 2- In which data is retrieved from an Indian website  and model is trained to predict the price of used cars.      
