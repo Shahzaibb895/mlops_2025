@@ -8,3 +8,4 @@ seaborn
 plotly
 scikit-learn
 mlflow
+dagshub
